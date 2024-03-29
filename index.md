@@ -21,12 +21,12 @@ Current Projects:
 
 ## Current Members
 
-- Vaishnav, Lakshika (PhD Student)
+- Lakshika Vaishnav (PhD Student)
 - Sakshi Singh (PhD Student)
 - Li Huang (PhD Student)
-- Benaoumeur, Olivia R (Undergraduate Student)
-- Jimenez Pichardo, Nerys (PhD Student)
-- Hono II, Daniel S (PhD Student)
+- Olivia Benaoumeur (Undergraduate Student)
+- Nerys Jimenez Pichardo (PhD Student)
+- Daniel S Hono II (PhD Student)
 - [Brandon Rozek](https://brandonrozek.com/) (PhD Student)
  
 ## Publications
